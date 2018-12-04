@@ -1,0 +1,31 @@
+@{
+  Layout = "_Layout";
+}
+
+<div class="container">
+<h3 class="text-center">Fill Out to Add a New Animal</h3>
+<br>
+    <div class="form-group row">
+        <form action="/animals/new" method="post">
+            <div class="col col-md-3">
+                <label for="animalType">Animal Type:</label>
+                <input class="form-control" id="animalType" name="animalType" type="text" required><br>
+            </div>  
+            <div class="col col-md-3">
+                <label for="animalName">Animal Name:</label>
+                <input class="form-control" id="animalName" name="animalName" type="text" required><br>
+            </div> 
+            <div class="col col-md-3">
+            <label for="animalBreed">Animal Breed:</label>
+            <input class="form-control" id="animalBreed" name="animalBreed" type="text" required><br>
+            </div> 
+            <div class="col col-md-3">
+            <label for="animalDate">Animal Date:</label>
+            <input class="form-control" id="animalDate" name="animalDate" type="text" required><br>
+            </div>
+            <button class="btn btn-primary btn-lg" type="submit">Add</button>
+            <br>
+             <p><a href='/'>Return to Main Page</a></p>
+        </form>
+    </div>
+</div>

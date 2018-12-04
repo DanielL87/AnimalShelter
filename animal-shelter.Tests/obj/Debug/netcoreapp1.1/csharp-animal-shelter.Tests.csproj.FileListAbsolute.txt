@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.deps.json
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.runtimeconfig.json
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.dll
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.pdb
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/csharp-animal-shelter.dll
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/bin/Debug/netcoreapp1.1/csharp-animal-shelter.pdb
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/obj/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/obj/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.dll
+/Users/Guest/Desktop/csharp-animal-shelter.Solution/animal-shelter.Tests/obj/Debug/netcoreapp1.1/csharp-animal-shelter.Tests.pdb

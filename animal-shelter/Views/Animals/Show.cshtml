@@ -1,0 +1,16 @@
+@{
+  Layout = "_Layout";
+}
+
+<div class="container">
+    <h1>@Model.GetName()</h1>
+
+    <ul>
+        <li>@Model.GetAnimalType()</li>
+        <li>@Model.GetBreed()</li>
+        <li>@Model.GetDate()</li>
+    </ul>
+
+    <p><a href='/animals'>Return to Animal list</a></p>
+    <p><a href='/'>Return to Main Page</a></p>
+</div>
